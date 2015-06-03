@@ -1,0 +1,19 @@
+{
+  "name": "find_dom_utils",
+  "version": "1.0.0",
+  "description": "Simple DOM finder for finding elements on page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Anders Robbestad (robbestad@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "babel-eslint": "^3.1.10",
+    "uglify-js": "^2.4.23"
+  },
+  "dependencies": {
+    "jsdom": "^5.4.3"
+  }
+}
