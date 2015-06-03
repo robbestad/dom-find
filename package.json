@@ -1,6 +1,6 @@
 {
   "name": "find_dom_utils",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Simple DOM finder for finding elements on page",
   "main": "index.js",
   "scripts": {
