@@ -2,7 +2,7 @@
 
 // findPos() by quirksmode.org
 // Finds the absolute position of an element on a page
-export const findPos = (obj) => {
+module.exports = (obj) => {
         var curleft = 0,
             curtop = 0;
         if (obj.offsetParent) {

@@ -1,11 +1,8 @@
 "use strict";
 
-Object.defineProperty(exports, "__esModule", {
-    value: true
-});
 // getPageScroll() by quirksmode.org
 // Finds the scroll position of a page
-var getPageScroll = function getPageScroll() {
+module.exports = function () {
     var xScroll, yScroll;
     if (self.pageYOffset) {
         yScroll = self.pageYOffset;
@@ -20,5 +17,4 @@ var getPageScroll = function getPageScroll() {
     }
     return [xScroll, yScroll];
 };
-exports.getPageScroll = getPageScroll;
 

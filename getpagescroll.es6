@@ -2,7 +2,7 @@
 
 // getPageScroll() by quirksmode.org
 // Finds the scroll position of a page
-export const getPageScroll = () => {
+module.exports = () => {
     var xScroll, yScroll;
     if (self.pageYOffset) {
         yScroll = self.pageYOffset;
