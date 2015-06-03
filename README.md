@@ -1,3 +1,3 @@
-# Find POS utils
+# Find DOM utils
 
-Utils used by react-stickydiv
+Utils for finding DOM elements. Used by react-stickydiv 
