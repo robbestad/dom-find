@@ -1,6 +1,6 @@
 # Find DOM utils
 
-Utils for finding DOM elements. Used by [react-stickydiv][2]
+Utils for finding DOM elements. Used by [react-stickydiv][1]
 
 ```js
 var util = require('dom-find');
