@@ -1,7 +1,6 @@
 # Find DOM utils
 
-Utils for finding DOM elements. Used by react-stickydiv 
-# Easescroll
+Utils for finding DOM elements. Used by [react-stickydiv][2]
 
 ```js
 var util = require('dom-find');
@@ -26,3 +25,5 @@ var util = require('dom-find');
 // [50,-200]
 
 ```
+
+[1]: https://github.com/svenanders/react-stickydiv
